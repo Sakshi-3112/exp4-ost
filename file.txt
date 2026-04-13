@@ -1,1 +1,4 @@
+ HEAD
 change from branch1
+change from branch2
+ branch2
